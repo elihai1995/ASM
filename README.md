@@ -1,2 +1,0 @@
-# ASM
-Academic final project
